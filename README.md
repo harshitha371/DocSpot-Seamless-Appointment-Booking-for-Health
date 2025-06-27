@@ -66,8 +66,8 @@ doctorapp/
 - VS Code or any preferred IDE
 
 ### 1. Clone the repository
-git clone https://github.com/khalandar-mdh/DocSpot-Seamless-Appointment-Booking-System
-cd doctorapp
+git clone https://github.com/harshitha371/DocSpot-Seamless-Appointment-Booking-for-Health
+cd project
 
 ### 2. Install backend dependencies
 cd server
@@ -88,6 +88,8 @@ JWT_SECRET=your_secret_key
 #### Start the backend server
 cd server
 npx nodemon server.js
+  or
+node server.js (in case npx doesn't work, try this)
 
 #### Start the frontend client
 cd client
@@ -116,13 +118,12 @@ Add screenshots here after running the application, including:
 
 ## Authors
 
-- Mdh Khalandar
-- Harshith Naraboyana
-- Goddumarri Sudharshan
-- Manikanta Bhupasamudram
-- Bharath Kumar
+- Harshitha Vasam
+- Chaitra Desai
+- B Vishnupriya
+- P Vimala
 
-Team ID: LTVIP2025TMID58915
+Team ID: LTVIP2025TMID58824
 
 
 
